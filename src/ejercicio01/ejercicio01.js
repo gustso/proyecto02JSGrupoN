@@ -9,6 +9,8 @@ const cliente01 = {
     edad : 2
 };
 
+let arregloDeNumeros = [3,5,"Hola",9];
+
 const PI = 3.14;
 
 let lista = [2,4,5];
